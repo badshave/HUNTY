@@ -1,0 +1,52 @@
+#EXTINF:-1 xui-id="8916" tvg-id="sky.sports.f1.gb" tvg-name="SKY SPORTS F1 (HD)" tvg-logo="http://live.huntv.net:8080/images/a8015ac1295252047566492395da0f0a.png" group-title="Sport",SKY SPORTS F1 (HD)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UAH43ZjM5qP5L28pmgrfp9UZjHDPueVykuFWlruOlbGj
+#EXTINF:-1 xui-id="8917" tvg-id="premier.sports.gb" tvg-name="SKY Sports Premier League (HD)" tvg-logo="http://live.huntv.net:8080/images/c4daff21c4d252e3b86d6ae694e29bf3.png" group-title="Sport",SKY Sports Premier League (HD)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UAH43ZjM5qP5L28pmgrfp9XghIuuk71_KQ85QDKPvY8f
+#EXTINF:-1 xui-id="8918" tvg-id="SSPFTHD" tvg-name="SKY Sports Football (HD)" tvg-logo="http://live.huntv.net:8080/images/949cf5ebd359b7c3419d1471e6a875f9.png" group-title="Sport",SKY Sports Football (HD)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UAH43ZjM5qP5L28pmgrfp9X2J957ZMKxgVSV2KaRD5Uj
+#EXTINF:-1 xui-id="156" tvg-id="0" tvg-name="? Science ?" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLvZrnhEXKamGuvlzpweKcr4.png" group-title="Science",? Science ?
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB34wZdAVuiLT5Ug_bKYBTea8
+#EXTINF:-1 timeshift="10" xui-id="157" tvg-id="AnimalPlanet.hu" tvg-name="Animal Planet (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/ef26837f0fd1b2899f3284f61aa82137.png" group-title="Science",Animal Planet (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB35LYxju-uqZdhFM0bM7TiEZ
+#EXTINF:-1 xui-id="158" tvg-id="AnimalPlanet.hu" tvg-name="Animal Planet (HD.2)" tvg-logo="http://live.huntv.net:8080/images/ef26837f0fd1b2899f3284f61aa82137.png" group-title="Science",Animal Planet (HD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB36JcVNRmFGtismp_4sYjmjq
+#EXTINF:-1 timeshift="10" xui-id="159" tvg-id="bbcearth.hu" tvg-name="BBC EARTH (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/407fe735d21acf572555996eb4cab298.png" group-title="Science",BBC EARTH (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB352HdmhLxLRJULe6I8vOm26
+#EXTINF:-1 xui-id="8731" tvg-id="bbcearth.hu" tvg-name="BBC EARTH (SD.2)" tvg-logo="http://live.huntv.net:8080/images/407fe735d21acf572555996eb4cab298.png" group-title="Science",BBC EARTH (SD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UAH43ZjM5qP5L28pmgrfp9XITqTT7hc7V4u-Cw-45nDt
+#EXTINF:-1 xui-id="52090" tvg-id="lovenature.hu" tvg-name="Love Nature (FHD)" tvg-logo="http://live.huntv.net:8080/images/ozTBjcD0wwx4vBgLGHNJ5wTfvh31NnLAw12be2hHKGcX9G-cTwPgjnlmnc0ijALWKwjrYRoGDDz5jlMLipQdoNr8HUXiToazHa5U2zRnD5E.png" group-title="Science",Love Nature (FHD)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5ULqHWJdIJWXPthMVoWR94uxW3LxMGbJDn0yFa5FN8CwM
+#EXTINF:-1 timeshift="10" xui-id="161" tvg-id="spektrum.hu" tvg-name="Spektrum (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/d4725d6ec86ffb1abbeedff7adaa0f7e.png" group-title="Science",Spektrum (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB342iEtU1QQk3tbRSg5n0b72
+#EXTINF:-1 xui-id="160" tvg-id="spektrum.hu" tvg-name="Spektrum (FHD.2)" tvg-logo="http://live.huntv.net:8080/images/958b510a769fe9ad35763cf0a6cf6e25.png" group-title="Science",Spektrum (FHD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB36-90uwp24oypaQFyhNLM6Z
+#EXTINF:-1 timeshift="10" xui-id="69157" tvg-id="spektrumhome.hu" tvg-name="SPEKTRUM HOME (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/e124bef93fffe709197b023abe135819.png" group-title="Science",SPEKTRUM HOME (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UCy3kn9vO54iScbO54ycpMmTLVRspWK9112_DN_Svc0_
+#EXTINF:-1 xui-id="195" tvg-id="spektrumhome.hu" tvg-name="SPEKTRUM HOME (SD.2)" tvg-logo="http://live.huntv.net:8080/images/e124bef93fffe709197b023abe135819.png" group-title="Science",SPEKTRUM HOME (SD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB36aoRugf3TrIh1XK03DqHha
+#EXTINF:-1 timeshift="10" xui-id="164" tvg-id="natgeo.hu" tvg-name="Nat Geo (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/7a175ce7b9ab1cce8857115537511112.png" group-title="Science",Nat Geo (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB35VLXr5j9uDyrUwrKUFvAm-
+#EXTINF:-1 xui-id="163" tvg-id="natgeo.hu" tvg-name="Nat Geo (FHD.2)" tvg-logo="http://live.huntv.net:8080/images/b2031a33dbf90835c6920c78a1384fdd.png" group-title="Science",Nat Geo (FHD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB34PBhmQmQJoRAKQq8x4C5yJ
+#EXTINF:-1 timeshift="10" xui-id="166" tvg-id="natgeowild.hu" tvg-name="Nat Geo Wild (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/74bdbf3285c1aa3c9be7dc622ea7dd00.png" group-title="Science",Nat Geo Wild (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB36Vv1pfNbtCUkWd69Frn1dn
+#EXTINF:-1 xui-id="165" tvg-id="natgeowild.hu" tvg-name="Nat Geo Wild (FHD.2)" tvg-logo="http://live.huntv.net:8080/images/74bdbf3285c1aa3c9be7dc622ea7dd00.png" group-title="Science",Nat Geo Wild (FHD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB37B2UI9NnDKoppDpmX5mpaU
+#EXTINF:-1 timeshift="10" xui-id="184" tvg-id="discoverychannel.hu" tvg-name="Discovery Channel (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/72c1394ff7c8dcda04d5531b414a97a4.png" group-title="Science",Discovery Channel (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB355xOmQE_Q7jAV7yCf26iBv
+#EXTINF:-1 xui-id="183" tvg-id="discoverychannel.hu" tvg-name="Discovery Channel (SD.2)" tvg-logo="http://live.huntv.net:8080/images/0ebe453a371e4c2e7f0f5315c9aad279.png" group-title="Science",Discovery Channel (SD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB36-92rnmhmCiV_R6PQGEUIC
+#EXTINF:-1 timeshift="10" xui-id="191" tvg-id="historychannel.hu" tvg-name="History (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/8a7797529f61d003cb7ac7944c099014.png" group-title="Science",History (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB37gXFeLma6EQ0pK1E7o3Opu
+#EXTINF:-1 xui-id="190" tvg-id="historychannel.hu" tvg-name="HISTORY (FHD.2)" tvg-logo="http://live.huntv.net:8080/images/f3947088f73ae4b62184c6124604644d.png" group-title="Science",HISTORY (FHD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB36uPV0ezcY83EkSG4ByfpEb
+#EXTINF:-1 timeshift="10" xui-id="173" tvg-id="viasatnature.hu" tvg-name="VIASAT Nature (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/8644e538a1c92627ce4a67f028a020d0.png" group-title="Science",VIASAT Nature (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB34Lee3C-H_orvtt8JB_8f1s
+#EXTINF:-1 xui-id="172" tvg-id="viasatnature.hu" tvg-name="Viasat Nature (FHD.2)" tvg-logo="http://live.huntv.net:8080/images/8644e538a1c92627ce4a67f028a020d0.png" group-title="Science",Viasat Nature (FHD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB349Sd5cF_WeI7zx61bXrtYG
+#EXTINF:-1 timeshift="10" xui-id="175" tvg-id="viasathistory.hu" tvg-name="Viasat History (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/0a60ad1ac82e05a7ae0997e71d87370e.png" group-title="Science",Viasat History (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB35hRRf2EBsdKMTH-jdy2M2C
+#EXTINF:-1 xui-id="174" tvg-id="viasathistory.hu" tvg-name="Viasat History (FHD.2)" tvg-logo="http://live.huntv.net:8080/images/0a60ad1ac82e05a7ae0997e71d87370e.png" group-title="Science",Viasat History (FHD.2)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB35YPGZo8JeyPGk3HrbqkCwi
+#EXTINF:-1 timeshift="10" xui-id="177" tvg-id="viasatexplore.hu" tvg-name="Viasat Explore (FHD.1)" tvg-logo="http://live.huntv.net:8080/images/a7be34012b991553f532cf2b5e25fc62.png" group-title="Science",Viasat Explore (FHD.1)
+http://live.huntv.net:8080/play/Bai6Zj6qTT7El3oPxuE5UNAF_-wgM1efgkvuFWtlB362hMp4xkQD-HsWtQ1cPZxa
